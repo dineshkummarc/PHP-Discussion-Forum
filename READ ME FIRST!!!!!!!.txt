@@ -1,7 +1,6 @@
+# PHP-Discussion-Forum
+
 This project is created using localhost(XAMPP server).
-
 First of all create a database 'forum' in phpmyadmin of xampp
-
 then import 'forum.sql' file on database 
-
 and then use it.
